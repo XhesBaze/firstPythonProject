@@ -1,0 +1,91 @@
+{
+    "question": [
+    "Q1. Traveling in different cities of the country with your parents helps,\nby giving different opportunities to learn= ",
+    "Q2. Paint is part of= ",
+    "Q3. Myths are:",
+    "Q4. 45 x 100 is equal to: ",
+    "Q5. How many lines does the pentagram have?",
+    "Q6. In our home environment furnitures have different functions = ",
+    "Q7. Are not included in historical objects= ",
+    "Q8. (6 x 9) + 4 is equal to = ",
+    "Q9. What is the system that ensures the transmission of data over the Internet?",
+    "Q10. What is the Paint program for? "
+  ],
+  "answer": [
+    4,
+    2,
+    4,
+    3,
+    3,
+    4,
+    4,
+    4,
+    3,
+    2
+    
+  ],
+  "options": [
+
+    [
+        "Tradional dishes",
+        "Cultural activities",
+        "Explore the monuments",
+        "All the alternatives above" 
+    ],
+    [
+        "Operating system of windows",
+        "Package of microsoft office",
+        "Un-licensed application of windows",
+        "Operating system of linux" 
+    ],
+    [
+        "Realistic story tales",
+        "Are our birthdays",
+        "Unique celebrations",
+        "Fantastic tales"
+    ],
+    [
+        "45",
+        "450",
+        "4500",
+        "45000"
+    ],
+    [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    [
+        "Only one function",
+        "Two functions",
+        "They dont have any function",
+        "They have different functions"
+    ],
+    [
+        "Museums",
+        "The ruins of old castles",
+        "Ancient bridges",
+        "The house where I live"
+    ],
+    [
+        "52",
+        "51",
+        "64",
+        "58" 
+    ],
+    [
+        "WWW",
+        "IP",
+        "HTTP",
+        "None of them." 
+    ],
+    [
+        "To write on the computer",
+        "To draw on the computer",
+        "To do mathematical operations",
+        "To listen to music"
+    ]
+  ]
+  
+}

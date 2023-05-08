@@ -1,0 +1,59 @@
+{"question": [
+    "Q1. A human body has how many organs?",
+    "Q2. In the sentence:You could hear the wolf in the forest,\nwhich is the subject?" ,
+    "Q3. The nervous system has how many MAIN functions?",
+    "Q4. (5/4)*40 is equal to",
+    "Q5. After the sentence:What is the weather like today?,we should put",
+    "Q6. A person has how many senses?",
+    "Q7. The misspelled word is: ?",
+    "Q8. In the sentence:Emiri flies by helicopter,the verb is",
+    "Q9. Find b when : 6*b=24",
+    "Q10. Find the multiplier of 2"
+  ],
+  "answer": [
+    3,
+    1,
+    3,
+    3,
+    1,
+    1,
+    2,
+    1,
+    4,    
+    2
+  ],
+  "options": [
+
+        ["80","67",         "78",         "90" 
+    ],
+    [   "wolf",         "hear",         "forest",         "in"
+       
+    ],
+    [   "5",         "9",         "3",         "8"   
+    ],
+   
+    [
+        "25",         "60",         "50",         "55"
+    ],
+    [
+        "?","!",".",":"
+    ],
+    [
+        "5","2","1","8" 
+    ],
+    [
+        "acquire",         "absense",         "acceptable",         "acquire" 
+
+    ],
+    [
+        "flies",         "helicopter",         "Emiri",         "by"
+    ],
+    [
+        "3","6","8","4"
+    ],
+    [
+        "15","20","21","23"
+    ]
+  ]
+  
+}

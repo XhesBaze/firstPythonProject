@@ -1,0 +1,90 @@
+{"question": [
+    "Q1. Which planet in our solar system is known for looking like a ring?",
+    "Q2. What animal is known as the : Ship of the Desert?",
+    "Q3. Which month of the year has the least number of days?",
+    "Q4. Which is the 16th letter of the alphabet?",
+    "Q5. Find a synonym for the word 'happiness':",
+    "Q6. How do you write the number eighty-one using digits?",
+    "Q7. What number does this Roman numeral represent : XXXV ?",
+    "Q8. How many continents are there?",
+    "Q9. Calculate the value of this expression:\nX = 2+4*(3*5)",
+    "Q10. Jack has some postcards.Then he got 3 more on a road trip.\nNow he has 6 postcards.\nHow many postcards did Jack have in the beginning"
+  ],
+  "answer": [
+    1,
+    3,
+    1,
+    3,
+    2,
+    3,
+    3,
+    2,
+    3,    
+    2
+  ],
+  "options": [
+
+        ["Saturn",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+    ],
+    [   "Dogs",
+        "Bats",
+        "Camels",
+        "Widows"
+       
+    ],
+    [   "February",
+        "March",
+        "October",
+        "June"
+    ],
+   
+    [
+        "A",
+        "Q",
+        "P",
+        "W"
+    ],
+    [
+        "Sadness",
+        "Joy",
+        "Excitment",
+        "Pride"
+
+    ],
+    [
+        "18",
+        "11",
+        "81",
+        "811"
+
+    ],
+    [
+        "100",
+        "78",
+        "35",
+        "06"
+
+    ],
+    [
+        "5",
+        "7",
+        "2",
+        "1"
+    ],
+    [
+        "30",
+        "26",
+        "62",
+        "100"
+    ],
+    [   "5",
+        "3",
+        "6",
+        "2"
+    ]
+  ]
+  
+}
